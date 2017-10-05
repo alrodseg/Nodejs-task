@@ -1,0 +1,27 @@
+{
+  "name": "ibillboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jasmine": "^2.8.5",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.4.0",
+    "jasmine": "^2.8.0",
+    "request": "^2.83.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+}
